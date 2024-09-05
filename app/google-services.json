@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "834241538914",
+    "firebase_url": "https://svrmoborobo.firebaseio.com",
+    "project_id": "svrmoborobo",
+    "storage_bucket": "svrmoborobo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834241538914:android:887e963acdc0bae6435a3b",
+        "android_client_info": {
+          "package_name": "com.example.mobile_robo.moborobo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834241538914-irc29q5g7d17ecbfjnhjrac9g57bu6pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgzwWoEtub0GiEdTcwOvQgH1F_XUBKfXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834241538914-irc29q5g7d17ecbfjnhjrac9g57bu6pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834241538914:android:a3ebfc760602811b435a3b",
+        "android_client_info": {
+          "package_name": "com.example.mobile_robo.svrmoborobo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834241538914-irc29q5g7d17ecbfjnhjrac9g57bu6pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgzwWoEtub0GiEdTcwOvQgH1F_XUBKfXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834241538914-irc29q5g7d17ecbfjnhjrac9g57bu6pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
